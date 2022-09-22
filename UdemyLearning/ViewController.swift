@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func changeButton(_ sender: Any) {
-        imageView.image = UIImage(named: "img4")
+        imageView.image = UIImage(named: "img3")
         
     }
     
